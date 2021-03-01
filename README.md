@@ -8,7 +8,7 @@ RSocket是一种新兴的通信协议，它是一种二进制的异步的通信�
 
 + [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm)
 + [Reactive Streams 规范示例代码分析](https://www.jianshu.com/p/32b982d21b1c)
-+ [[Reactive Streams规范及常见库](https://my.oschina.net/u/4769248/blog/4700139)](https://my.oschina.net/u/4769248/blog/4700139)
++ [Reactive Streams规范及常见库](https://my.oschina.net/u/4769248/blog/4700139)
 + [如何形象的描述反应式编程中的背压(Backpressure)机制？](https://www.zhihu.com/question/49618581/answer/237078934)
 
 
